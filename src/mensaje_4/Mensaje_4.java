@@ -19,7 +19,7 @@ public class Mensaje_4 {
         int  juan = 21;
         int gustavo = 22;
         int ximena= 16;
-        System.out.println("Carlos tiene la edad de ss: "+carlos);
+        System.out.println("Carlos tiene la edad de swws: "+carlos);
         System.out.println("juan tiene la edad de: "+juan);
         System.out.println("gustavo tiene la edad de: "+gustavo);
         System.out.println("ximena tiene la edad de: "+ximena);
